@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 // add new feature  -- button.
-
-=======
-// add new feature -- form.
->>>>>>> feature
+// add new feature -- form.//
+// aryan pal.
